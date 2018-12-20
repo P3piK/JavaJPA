@@ -2,6 +2,13 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/D:/Projects/Report-JPA/src/pl/polsl/piotr/gryt/model/Factory.java</file>
+            <file>file:/D:/Projects/Report-JPA/src/pl/polsl/piotr/gryt/controller/FactoryController.java</file>
+            <file>file:/D:/Projects/Report-JPA/src/pl/polsl/piotr/gryt/view/MotoView.java</file>
+            <file>file:/D:/Projects/Report-JPA/src/pl/polsl/piotr/gryt/model/Rider.java</file>
+            <file>file:/D:/Projects/Report-JPA/src/pl/polsl/piotr/gryt/controller/RiderController.java</file>
+            <file>file:/D:/Projects/Report-JPA/src/pl/polsl/piotr/gryt/controller/Helper.java</file>
+        </group>
     </open-files>
 </project-private>
